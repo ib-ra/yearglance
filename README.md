@@ -2,8 +2,6 @@
 
 A single-file event calendar that shows your entire year at a glance. No installation, no server, no dependencies — just open the HTML file in a browser.
 
-![YearGlance Calendar](screenshot.png)
-
 ## Features
 
 - **Full year view** — all 12 months visible at once in a compact grid
